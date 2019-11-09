@@ -24,3 +24,5 @@ We can check application logs:
 $ kubectl logs kubernetes-bootcamp-5c69669756-wv2rp
 Kubernetes Bootcamp App Started At: 2018-10-20T13:38:41.537Z | Running On:  kubernetes-bootcamp-5c69669756-wv2rp
 ```
+
+This change is pushed from Travis-CI.
